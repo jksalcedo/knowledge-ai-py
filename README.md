@@ -4,7 +4,7 @@ This project is a simple introduction to **knowledge representation and reasonin
 
 It was created as **Problem Set 2 (Knowledge)** for our **Introduction to Artificial Intelligence** course.
 
-## What Are Knights and Knaves?
+## Knights and Knaves?
 
 In these puzzles:
 - A **Knight** always tells the truth.
@@ -13,7 +13,7 @@ In these puzzles:
 
 We write what each character says using logic, then let the program figure out who must be a knight or a knave.
 
-## Main Files
+## Files
 
 | File | Purpose |
 |------|---------|
@@ -36,16 +36,3 @@ python puzzles.py
 
 You will see output for each puzzle showing which roles are definitely true.
 
-
-## Learning Goals
-
-You practice:
-- Turning sentences into logic
-- Using constraints (either/or)
-- Seeing automated reasoning
-- Understanding how truth is enforced
-
-
-## License
-
-MIT License — free to use for learning.
